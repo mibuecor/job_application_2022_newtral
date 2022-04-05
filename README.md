@@ -1,0 +1,1 @@
+Copiar, en la carpeta "data", los archivos .csv para la correcta ejecución del notebook.
